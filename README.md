@@ -11,7 +11,7 @@
 电视每播放一段时间，弹出一道题。孩子答对了，才能接着看。
 
 [![Android TV](https://img.shields.io/badge/Android%20TV-9%2B-3DDC84?logo=android&logoColor=white)](#系统要求)
-[![版本](https://img.shields.io/badge/版本-0.4.0-2F6BFF)](http://106.54.222.166:8686/download/tvquiz.json)
+[![版本](https://img.shields.io/badge/版本-0.4.1-2F6BFF)](http://106.54.222.166:8686/download/tvquiz.json)
 [![免费版](https://img.shields.io/badge/免费版-口算永久免费-1FB96B)](#免费版和高级版)
 [![许可](https://img.shields.io/badge/许可-家庭个人使用-orange)](LICENSE)
 
