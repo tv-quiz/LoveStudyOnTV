@@ -56,10 +56,11 @@
 <div align="center">
 <img src="docs/screenshots/tv-home.png" width="720" alt="电视首页：手机扫码管理"><br>
 <sub>电视首页：手机连同一个 Wi-Fi，用相机扫码</sub><br><br>
-<img src="docs/screenshots/phone-home.png" width="240" alt="手机管理首页">
-<img src="docs/screenshots/phone-banks.png" width="240" alt="题库">
-<img src="docs/screenshots/phone-mine.png" width="240" alt="我的"><br>
-<sub>手机浏览器里管理：开关答题、临时放行、选题库、输入激活码</sub>
+<img src="docs/screenshots/phone-home.png" width="200" alt="手机管理首页">
+<img src="docs/screenshots/phone-children.png" width="200" alt="孩子：哥哥 9 岁，妹妹 5 岁">
+<img src="docs/screenshots/phone-banks.png" width="200" alt="题库">
+<img src="docs/screenshots/phone-mine.png" width="200" alt="我的"><br>
+<sub>手机浏览器里管理：开关答题、临时放行、哥哥妹妹各出各的题、选题库、输入激活码</sub>
 </div>
 
 ## 三步开始用
