@@ -11,7 +11,7 @@
 电视每播放一段时间，弹出一道题。孩子答对了，才能接着看。
 
 [![Android TV](https://img.shields.io/badge/Android%20TV-9%2B-3DDC84?logo=android&logoColor=white)](#系统要求)
-[![版本](https://img.shields.io/badge/版本-0.4.1-2F6BFF)](http://106.54.222.166:8686/download/tvquiz.json)
+[![版本](https://img.shields.io/badge/版本-0.4.2-2F6BFF)](http://106.54.222.166:8686/download/tvquiz.json)
 [![免费版](https://img.shields.io/badge/免费版-口算永久免费-1FB96B)](#免费版和高级版)
 [![许可](https://img.shields.io/badge/许可-家庭个人使用-orange)](LICENSE)
 
@@ -102,6 +102,8 @@
 **升级高级版：** 在手机管理页面打开「我的 → 激活码」，输入 **`666888`**。
 
 > 这个激活码现在**限时免费**。
+
+**更新电视端：** 有新版本时，手机管理页面的首页会提示。点「更新」，电视会自己下载，然后用遥控器在安装提示上选「安装」。设置和配对都会保留。0.4.2 以前的版本请先手动装一次新版本。
 
 ## 常见问题
 
