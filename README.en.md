@@ -2,6 +2,8 @@
 
 **Learn first, then watch TV.** An Android TV app that asks your kids a quiz question before they can keep watching.
 
+🌐 **Website: [http://106.54.222.166:8686/](http://106.54.222.166:8686/)**
+
 [中文说明](README.md) · [Download APK](http://106.54.222.166:8686/download/tvquiz.apk) · [Releases](https://github.com/tv-quiz/LoveStudyOnTV/releases) · [Issues](https://github.com/tv-quiz/LoveStudyOnTV/issues)
 
 > The app interface and question banks are in Chinese. The banks follow the Chinese primary school curriculum.
