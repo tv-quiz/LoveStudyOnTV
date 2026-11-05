@@ -34,7 +34,7 @@ adb shell am start -n com.gebilaozhongyi.tvquiz/.MainActivity
 
 Have an AI agent that can run commands? Give it [docs/ai-install.md](docs/ai-install.md).
 
-## Free and advanced editions
+## Free and beta editions
 
 | | Free | Advanced |
 |---|:---:|:---:|
@@ -44,7 +44,7 @@ Have an AI agent that can run commands? Give it [docs/ai-install.md](docs/ai-ins
 | Question banks (poems, characters, English, …) | | ✓ |
 | Records | Today | Full history |
 
-To unlock the advanced edition, open **我的 → 激活码** (Me → Activation code) in the phone page and enter the code. During the beta the code is free: join the parents' group on the [website](http://106.54.222.166:8686/#group) to get it.
+To unlock the beta edition, open **我的 → 激活码** (Me → Activation code) in the phone page and enter the code. During the beta the code is free: join the parents' group on the [website](http://106.54.222.166:8686/#group) to get it.
 
 ## Requirements
 
